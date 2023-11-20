@@ -1,6 +1,7 @@
 {
   "name": "edunest",
   "short_name": "edunest",
+  "description": "Edunest",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.76c1e1.png",
